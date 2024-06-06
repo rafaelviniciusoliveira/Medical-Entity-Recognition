@@ -2,8 +2,7 @@
 This is a part of a project that encompasses the use of Machine Learning and Natural Language Processing to recognize medical entities in legal texts.
 The Jupyter Notebook contains all the training and evaluation process. 
 
-![alt text](http://url/to/img.png](https://github.com/rafaelviniciusoliveira/Medical-Entity-Recognition/blob/main/img.png))
-
+![screenshot](img.png)
 
 ## You can find the previous and next steps on these repos:
 
