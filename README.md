@@ -8,4 +8,4 @@ The Jupyter Notebook contains all the training and evaluation process.
 
 Creation of the dataset using Weak Supervision: link soon
 
-Reducing labels using the Levenshtein distance: link soon
+Reducing labels using the Levenshtein distance: [Link](https://github.com/rafaelviniciusoliveira/Named-Entities-Reduction-with-Levenshtein-Distance)
