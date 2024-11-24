@@ -1,11 +1,6 @@
-# Medical Entity Recognition
-This is a part of a project that encompasses the use of Machine Learning and Natural Language Processing to recognize medical entities in legal texts.
-The Jupyter Notebook contains all the training and evaluation process. 
+# Reconhecimento de fármacos em textos judiciais
+Esta é uma parte de um projeto que abrange o uso de Machine Learning e Processamento de Linguagem Natural para reconhecer entidades médicas em textos jurídicos.
+O Jupyter Notebook contém todo o processo de treinamento e avaliação. 
 
 ![screenshot](img.png)
 
-## You can find the previous and next steps on these repos:
-
-Creation of the dataset using Weak Supervision: link soon
-
-Reducing labels using the Levenshtein distance: [Link](https://github.com/rafaelviniciusoliveira/Named-Entities-Reduction-with-Levenshtein-Distance)
