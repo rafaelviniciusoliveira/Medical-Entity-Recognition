@@ -1,6 +1,7 @@
-# Reconhecimento de fármacos em textos judiciais
-Esta é uma parte de um projeto que abrange o uso de Machine Learning e Processamento de Linguagem Natural para reconhecer entidades médicas em textos jurídicos.
-O Jupyter Notebook contém todo o processo de treinamento e avaliação. 
+# Drug Recognition in Legal Texts
+
+This is part of a project that encompasses the use of Machine Learning and Natural Language Processing to recognize medical entities in legal texts.
+The Jupyter Notebook contains the entire training and evaluation process. 
 
 ![screenshot](img.png)
 
